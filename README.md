@@ -1,2 +1,2 @@
 # angular-sample-project
-My First Git Repository
+My First Repository on GitHub
